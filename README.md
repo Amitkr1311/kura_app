@@ -1,6 +1,6 @@
-# Kuro
+# SmartNotes
 
-Kuro is a content-sharing application designed to let users share curated content such as YouTube videos and Twitter posts in a centralized personal "brain." Users can generate shareable links to share their curated content with others seamlessly.
+SmartNotes is a content-sharing application designed to let users share curated content such as YouTube videos and Twitter posts in a centralized personal "brain." Users can generate shareable links to share their curated content with others seamlessly.
 
 ## Features
 
@@ -39,18 +39,20 @@ Kuro is a content-sharing application designed to let users share curated conten
 ### Setup Backend
 
 1. Clone the repository:
-    https://github.com/Amitkr1311/kura_app.git
-
-
+   ```
+    https://github.com/Amitkr1311/SmartNotes.git
 2. Install dependencies:
-
-
+  ```
+   npm install
+  ```
 3. Configure environment variables:
 Create a `.env` file with:
 
 
-4. Start the backend server:
-
+5. Start the backend server:
+  ```
+  npm run dev
+  ```
 
 ### Setup Frontend
 
@@ -61,7 +63,9 @@ Create a `.env` file with:
 3. Configure environment variables (if applicable), for example `.env`:
 
 4. Start the frontend dev server:
-
+  ```
+  npm run dev
+  ```
 
 5. Open your browser at `http://localhost:3000`.
 
@@ -98,5 +102,5 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ by Your Name
+Made with ❤️ by Amit Kumar
 
