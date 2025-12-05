@@ -1,6 +1,6 @@
 # SmartNotes
 
-SmartNotes is a content-sharing application designed to let users share curated content such as YouTube videos and Twitter posts in a centralized personal "brain." Users can generate shareable links to share their curated content with others seamlessly.
+NoteSphere is a content-sharing application designed to let users share curated content such as YouTube videos and Twitter posts in a centralized personal "brain." Users can generate shareable links to share their curated content with others seamlessly.
 
 ## Features
 
@@ -40,7 +40,7 @@ SmartNotes is a content-sharing application designed to let users share curated 
 
 1. Clone the repository:
    ```
-    https://github.com/Amitkr1311/SmartNotes.git
+    https://github.com/Amitkr1311/NoteSphere.git
 2. Install dependencies:
   ```
    npm install
